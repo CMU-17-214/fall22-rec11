@@ -1,10 +1,4 @@
-package edu.cmu.cs.cs214.rec09.plugin;
-
-import java.util.*;
-
-import edu.cmu.cs.cs214.rec09.framework.core.GameFramework;
-import edu.cmu.cs.cs214.rec09.framework.core.GamePlugin;
-import edu.cmu.cs.cs214.rec09.games.Memory;
+package edu.cmu.cs.cs214.rec10.games
 
 /**
  * An example Memory game plug-in.
