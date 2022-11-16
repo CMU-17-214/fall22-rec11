@@ -2,4 +2,6 @@
 **Fork** this repository to use for practicing Github flow.
 
 # Attendance
-zhiyuanj
+[put your andrewID here]
+Michelle Hu<binwuh>
+Zhiyuan Jiang<zhiyuanj>
