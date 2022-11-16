@@ -78,8 +78,8 @@ function newBoard(cells: PlayerOrEmpty[]): Board {
 
 // TODO: Implement the plugin
 //
-// function init (): GamePlugin {
-//     throw new Error("not yet implemented")
-// }
+function init (): GamePlugin {
+    throw new Error("not yet implemented")
+}
 //
 // export { init }
