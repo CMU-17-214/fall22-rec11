@@ -2,4 +2,7 @@
 **Fork** this repository to use for practicing Github flow.
 
 # Attendance
-[put your andrewID here]
+[bowenhou] [yidingch]
+
+# Date
+11/17/22
