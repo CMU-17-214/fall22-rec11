@@ -2,5 +2,5 @@
 **Fork** this repository to use for practicing Github flow.
 
 # Attendance
-hongfeij
+hongfeij :)
 yantingd
